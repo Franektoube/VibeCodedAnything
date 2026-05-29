@@ -8,6 +8,8 @@
 
 ### [VCAF - Vibe Coded Audio Format](https://github.com/Franektoube/vcaf)
 
+### [VCB - Vibe Coded Browser](https://github.com/Franektoube/vcbrowser)
+
 ###### More comming soo- Sometime.
 
 #### © 2026 to Heat Death of the universe Franektoube INC. 
