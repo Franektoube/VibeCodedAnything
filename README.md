@@ -6,6 +6,8 @@
 
 ### [VCIF - Vibe Coded Image Format](https://github.com/Franektoube/vcif)
 
+### [VCAF - Vibe Coded Audio Format](https://github.com/Franektoube/vcaf)
+
 ###### More comming soo- Sometime.
 
 #### © 2026 to Heat Death of the universe Franektoube INC. 
